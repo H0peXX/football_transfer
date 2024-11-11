@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+.read-the-docs {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+  font-size: 18px;
+}
